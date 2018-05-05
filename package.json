@@ -1,0 +1,12 @@
+{
+    "name": "Hello-world",
+    "description": " Simple Hello world in NodeJS",
+    "author": "kiranya",
+    "dependencies": {
+        "express": "^4.16.3",
+        "yarn-install": "^1.0.0"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
